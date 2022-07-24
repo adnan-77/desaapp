@@ -1,0 +1,38 @@
+{
+  "desa_id": {
+    "kades_name": {},
+    "desa_name": {},
+    "letakgeografis": {},
+    "RW": {},
+    "RT": {},
+    "lingkungan": {},
+    "statusdaerah": {},
+    "dusun:": {},
+    "status_pemr": {},
+    "statuspeta": {},
+    "bataswilayah": {},
+    "bataspantai": {},
+    "kawasan": {}
+  },
+  "provinsi": {
+    "provinsi_kode": {},
+    "letakgeo": {}
+  },
+  "kabupaten": {
+    "provinsi_id": {},
+    "letak_geo": {},
+    "kelurahan": {}
+  },
+  "faspend": {
+    "kafas_id": {},
+    "desa_id": {},
+    "namasekolah": {},
+    "NISN": {}
+  },
+  "faskes": {
+    "kafas_id": {},
+    "desa_id": {},
+    "namaFaskes": {},
+    "jenisFaskes": {}
+  }
+}
