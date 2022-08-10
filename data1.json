@@ -23,16 +23,16 @@
     "letak_geo": {},
     "kelurahan": {}
   },
-  "faspend": {
-    "kafas_id": {},
+  "kategori_fasum": {
+    "katfasum_id": {},
     "desa_id": {},
-    "namasekolah": {},
-    "NISN": {}
+    "kategorifasum": {}
   },
-  "faskes": {
-    "kafas_id": {},
+  "fasum": {
+    "katfasum_id": {},
     "desa_id": {},
-    "namaFaskes": {},
-    "jenisFaskes": {}
+    "namafasum": {},
+    "jenisfasum":{},
+    "NISN": {}
   }
 }
